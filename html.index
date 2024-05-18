@@ -28,7 +28,6 @@
         <h1>Biografia de Janeo</h1>
     </header>
     <main>
-        <div class="profile-picture"></div>
         <h2>Janeo</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec magna eu velit fringilla fermentum.</p>
         <p>Integer quis velit nec nulla dapibus posuere. Mauris elementum justo non arcu posuere ultricies.</p>
